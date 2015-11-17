@@ -1,0 +1,23 @@
+name: Virgo
+favicon: null
+layout_spectrum: 0.9481903710402548
+typography_spectrum: 0.4661147801671177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6192643553949893
+  lightness: 0.720138531178236
+  saturation: 0.415871798992157
+  rhythmicContrast: 0.5281671958509833
+purpose: []
