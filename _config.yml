@@ -2,6 +2,7 @@ name: Virgo
 favicon: null
 layout_spectrum: 0.9481903710402548
 typography_spectrum: 0.4661147801671177
+title: Virgo
 cta:
   domain: null
   bucket: null
