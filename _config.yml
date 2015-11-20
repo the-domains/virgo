@@ -1,6 +1,6 @@
 name: Virgo
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.74386
 title: Virgo
 cta:
@@ -22,7 +22,7 @@ color:
     - '#20ce87'
     - '#c7cad3'
     - '#edeef2'
-  brandStrength: 0.5
+  brandStrength: 0.3125
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0.5
